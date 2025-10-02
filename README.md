@@ -1,4 +1,5 @@
 # Mastering-SQL-Joins
+## type-of-joins
 
 ## INNER JOIN
 ### what it does: Returns only the rows where both tables have a match
@@ -91,6 +92,7 @@ UNION ALL
 SELECT product_id,
 product_name
 FROM products_info;
+
 
 
 
